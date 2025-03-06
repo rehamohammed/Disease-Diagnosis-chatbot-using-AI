@@ -1,2 +1,4 @@
 # Disease-Diagnosis-chatbot-using-AI
-The system has a simple interface where users can enter their symptoms. The chatbot, with the help of a pre-trained model and a medical knowledge base, analyzes the symptoms and cross-links them with existing diseases.
+Over the last few years, artificial intelligence (AI) has transformed the medical field by allowing smart, automatic solutions for predicting and diagnosing diseases. The current project develops a Disease Diagnosis Chatbot, an AI-driven system that will help users find possible diseases by inputting their symptoms. The chatbot utilizes Natural Language Processing (NLP) and Machine Learning (ML) algorithms to process user input and give proper disease predictions.
+
+The system has a simple interface where users can enter their symptoms. The chatbot, with the help of a pre-trained model and a medical knowledge base, analyzes the symptoms and cross-links them with existing diseases. It also provides the potential causes, risk factors, and preventions. In severe cases, it recommends users go for professional medical advice.
